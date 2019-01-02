@@ -1,0 +1,89 @@
+**HWIDRenewer v1.0**
+```
+- Basic Spoofer
+- Deletes Identifiers
+- Renews your HWID
+```
+**HWIDRenewer v2.0**
+```
+- Different Loop Function
+- New Design
+- Bugfixes
+```
+**HWIDRenewer v3.0**
+```
+- Added Ultimate Spoofer
+- Bugfixes
+- Small UI Improvements
+```
+**HWID Spoofer v4.0**
+```
+- Completly new Unbanner
+- Deletes traces of Epic Games
+- Uninstalles Easy Anti Cheat and Battle Eye
+```
+**Fortnite Toolkit v5.0**
+```
+- Completly new UI
+- Rewritten in C# instead of Visual Basic
+- Complete Spoofer
+```
+**Fortnite Toolkit v5.1**
+```
+- Added Aimbot Beta
+```
+**Fortnite Toolkit v5.2**
+```
+- Removed Aimbot due to legal issues
+```
+**Fortnite Toolkit v5.3**
+```
+- Added HWID Changer
+- Added HWID Spoofer
+- Added parts of v3.0 back in
+```
+**Fortnite Toolkit v5.4**
+```
+- Bugfixes
+- Small UI Improvements
+```
+**Fortnite Toolkit v5.5**
+```
+- Added Revo Uninstaller to remove Traces
+- Method to change RAM slot
+```
+**Fortnite Toolkit v5.6**
+```
+- Added Adapters Changer software
+- Added Hardware Changer software
+- Added EAC Forcing software
+- PC cleaner added
+- Hiddens files Cleaner added
+```
+**Fortnite Toolkit v5.7**
+```
+- Added new spoofing methods
+- Fixed Program Crashes when using Loop Renew Function
+- Added new Renew Function
+- Updated Discord Link
+- Added NETGuard to protect my Software against Crackers
+- Bugfixes
+```
+**Fortnite Toolkit v5.7.1**
+```
+- Security Update
+- Merged DLLs into EXE
+```
+**Spoof It! v6.0**
+```
+- Completely rewritten
+- Completely new Spoofing Methods
+- Advanced Control
+- New UI
+- New HDD Spoofer
+- New MAC Spoofer
+- New Loops
+- More Cleaners
+- Added Status Page
+- HWID licensing System against Crackers and People who share it
+```
